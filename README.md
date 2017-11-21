@@ -1,2 +1,2 @@
-## 概要
-Haskellの文法を勉強して何かのサービスを作る
+## Summary
+Create something application with haskell
